@@ -13,11 +13,11 @@ any issue.
 
 __2. Clone the repo__
 ```bash
-git clone https://github.com/gauravsofat/pun-control.git
+git clone https://github.com/gauravsofat/random-spoiler.git
 ```
 __3. Install Dependencies__
 ```bash
-cd pun-control # Go to the project root directory
+cd random-spoiler # Go to the project root directory
 npm install
 ```
 __4. Create Your Own Twitter Application__
