@@ -1,0 +1,15 @@
+{
+  "name": "random-spoiler",
+  "version": "1.0.0",
+  "description": "Twitter Bot That Tweets Spoilers At Regular Intervals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Sofat",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
